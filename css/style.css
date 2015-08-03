@@ -1,0 +1,285 @@
+:focus {
+    outline: none;
+}
+
+.wrap__inner {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.wrap__inner__header {
+    background-color: #343538;
+    padding: 29px 0 25px;
+}
+
+.wrap__inner__footer {
+    text-align: center;
+    background-color: #343538;
+    padding: 30px 0 5px;
+}
+
+.wrap__inner__main, .wrap__inner__content-only, .wrap__inner__sendicate, .wrap__inner__our-work, .wrap__inner__advertising, .wrap__inner__history {
+    background-color: #fff;
+}
+
+.wrap__inner__feature{
+    text-align: center;
+    background-color: #fff;
+    padding: 29px 0;
+}
+
+.wrap__inner__history {
+    padding-bottom: 50px;
+}
+
+.wrap__inner__history, .wrap__inner__our-work{
+    padding-top: 30px;
+}
+
+.block__item {
+    padding-bottom: 15px;
+}
+
+.wrap__inner__advertising {
+    text-align: center;
+    padding: 40px 0 34px;
+    background-color: #343538;
+}
+
+
+.text__title {
+    font-size: 18px;
+    color: #343538;
+}
+
+.text__discription {
+    font-size: 14px;
+    color: #a7a7a7;
+    line-height: 22px;
+}
+
+/*HEADER*/
+
+.header {
+    background-color: #e0dfda;
+}
+
+.header__description {
+    float: right;
+    color: #9a9a9b;
+    font-size: 13px;
+    line-height: 66px;
+    margin-right: 10px;
+    padding-right: 30px;
+}
+
+.header__description .header__description__url {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header__logo, .header__logo__url{
+    display: inline-block;
+    font-size: 42px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    padding-left: 15px;
+}
+
+/*TOP-PREVIEW*/
+
+.top-preview {
+    background-color: #f3f2ed;
+}
+
+.top-preview__image {
+    display: flex;
+}
+
+/*Main*/
+
+.main {
+    background-color: #f3f2ed;
+}
+
+.main__content {
+    padding: 30px;
+}
+
+.main__discription {
+    margin: 24px 0 30px;
+}
+
+.main__button {
+    border-radius: 20px;
+    color: #fff;
+    font-size: 14px;
+    padding: 12px 29px;
+    background-color: #343538;
+    border: none;
+}
+
+.main__button:hover {
+    background-color: #433291;
+    cursor: pointer;
+}
+
+/*FEATURES*/
+
+.features {
+    background-color: #f3f2ed;
+}
+
+
+.features__item {
+    display: inline-block;
+    margin-right: 60px;
+}
+
+.features__item__margin__left {
+    margin-right: 0;
+}
+
+.features__title {
+    margin: 24px 0;
+
+}
+
+.features__description {
+    width: 142px;
+}
+
+/*Sendicate*/
+
+.sendicate__left, .sendicate__right {
+    background-color: #f3f2ed;
+}
+
+.sendicate__title {
+    margin-bottom: 23px;
+}
+
+.sendicate__content__left {
+    float: left;
+    margin: 40px 24px 0 30px;
+}
+
+.sendicate__content__right {
+    float: right;
+    margin: 40px 30px 0 0;
+}
+
+.sendicate__image__left {
+    display: inline-block;
+}
+
+.sendicate__image__right {
+    display: inline-block;
+    margin-left: 18px;
+}
+
+.sendicate__description {
+    width: 237px;
+}
+
+
+/*our-work*/
+
+.our-work {
+    background-color: #f3f2ed;
+}
+
+
+.our-work__title {
+    margin-bottom: 23px;
+}
+
+.our-work__description {
+    margin-bottom: 23px;
+    line-height: 0;
+}
+.our-work__content {
+    text-align: center;
+}
+
+.our-work__gallary {
+    display: inline-table;
+}
+
+.our-work__border__none {
+    vertical-align: bottom;
+}
+
+
+/*advertising*/
+
+.advertising {
+    background-color: #f3f2ed;
+}
+
+.advertising__title {
+    line-height: 28px;
+    width: 107px;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 18px;
+}
+
+/*content-only*/
+
+.content-only {
+    background-color: #f3f2ed;
+}
+
+.content-only__content {
+    padding: 40px 30px 25px;
+}
+
+.content-only__title {
+    margin-bottom: 23px;
+}
+
+/*history*/
+
+.history {
+    background-color: #f3f2ed;
+}
+
+.history__title {
+    margin-bottom: 23px;
+}
+
+.history__description {
+    margin-bottom: 23px;
+    line-height: 0;
+}
+.history__content {
+    text-align: center;
+}
+
+/*footer*/
+
+.footer {
+    background-color: #e0dfda;
+    padding-bottom: 120px;
+}
+
+.footer-social__image {
+    margin-left: 10px;
+}
+
+.footer-social {
+    margin-bottom: 30px;
+    display: inline-flex;
+}
+
+.footer-discription {
+    margin-bottom: 28px;
+    line-height: 0;
+}
+
+.footer-discription .footer-discription__url {
+    text-decoration: none;
+    color: #c7c7c7;
+}

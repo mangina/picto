@@ -1,0 +1,57 @@
+@font-face {
+    font-family: HelveticaNeue-Regular;
+    src: url(../fonts/helvetica-neue-regular.eot);
+    src: url(../fonts/helvetica-neue-regular.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/helvetica-neue-regular.woff),
+        url(../fonts/helvetica-neue-regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: HelveticaNeue-Medium;
+    src: url(../fonts/helveticaneuecyr-medium.eot);
+    src: url(../fonts/helveticaneuecyr-medium.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/helveticaneuecyr-medium.woff),
+    url(../fonts/helveticaneuecyr-medium.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Opensans-Bold;
+    src: url(../fonts/opensans-bold.eot);
+    src: url(../fonts/opensans-bold.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/opensans-bold.woff),
+         url(../fonts/opensans-bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Opensans-Semibold;
+    src: url(../fonts/opensans-semibold.eot);
+    src: url(../fonts/opensans-semibold.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/opensans-semibold.woff),
+    url(../fonts/opensans-semibold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.font__type__helveticaneue__regular {
+    font-family: HelveticaNeue-Regular;
+}
+
+.font__type__helveticaneue__medium{
+    font-family: HelveticaNeue-Medium;
+}
+
+.font__type__opensans__bold{
+    font-family: Opensans-Bold;
+}
+
+.font__type__opensans__semibold{
+    font-family: Opensans-Semibold;
+}
+
