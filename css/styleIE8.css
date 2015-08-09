@@ -112,16 +112,18 @@
 }
 
 .main__button {
+    height: 46px;
+    width: 116px;
     border-radius: 20px;
     color: #fff;
     font-size: 14px;
     padding: 12px 29px;
-    background-color: #343538;
+    background: url(../img/button.png) no-repeat;
     border: none;
 }
 
 .main__button:hover {
-    background-color: #433291;
+    background: url(../img/button-hover.png) no-repeat;
     cursor: pointer;
 }
 
