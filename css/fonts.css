@@ -3,6 +3,7 @@
     src: url(../fonts/helvetica-neue-regular.eot);
     src: url(../fonts/helvetica-neue-regular.eot?#iefix) format('embedded-opentype'),
         url(../fonts/helvetica-neue-regular.woff),
+        url(../fonts/helvetica-neue-regular.svg#HelveticaNeue-Regular) format('svg'),
         url(../fonts/helvetica-neue-regular.ttf);
     font-weight: normal;
     font-style: normal;
